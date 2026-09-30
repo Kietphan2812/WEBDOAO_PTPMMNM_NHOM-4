@@ -1,14 +1,18 @@
 # AURA FASHION - WEBSITE BÁN QUẦN ÁO THỜI TRANG TRỰC TUYẾN
 ### Đề tài môn học: Phát triển phần mềm mã nguồn mở (PTPMMNM) - Nhóm 4
 
----
-THÀNH VIÊN: .
-PHAN TẤN KIỆT .
-NGUYỄN NỮ HỒNG NHUNG .
-NGUYỄN NHƯ HỒNG HẠNH .
-DƯƠNG QUỐC BẢO .
+## Giấy phép
+ Dự án phát hành theo giấy phép [MIT](LICENSE).
+
+
+THÀNH VIÊN:
+PHAN TẤN KIỆT 
+NGUYỄN NỮ HỒNG NHUNG 
+NGUYỄN NHƯ HỒNG HẠNH 
+DƯƠNG QUỐC BẢO 
 NGUYỄN THẾ NHẤT
- PHÂN CHIA VAI TRÒ
+
+PHÂN CHIA VAI TRÒ:
  
   1 Admin ,Maintain (Maintainer / Người duy trì): PHAN TẤN KIỆT
   2 Write (Contributor / Developer / Người ghi):NGUYỄN THẾ NHẤT , NGUYỄN NHƯ HỒNG HẠNH
